@@ -1,0 +1,5 @@
+black
+pre-commit
+opencv-python
+numpy
+matplotlib
